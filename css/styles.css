@@ -1,0 +1,16 @@
+body{
+  background-color: rgb(191, 231, 191)
+}
+.skills{
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+}
+.work{
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
+}
+.edu{
+  font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.emp{
+  font-weight: bolder;
+  color: rgb(170, 107, 12);
+}
